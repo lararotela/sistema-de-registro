@@ -6,4 +6,4 @@ Para ejecutar el sistema debes poner:
 
 ```npm install react``` 
 
-probando porque no anda
+
